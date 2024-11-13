@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rumeysa.</h1>
-<h3 align="left">I'm a Computer Engineer passionate about software development. I enjoy learning new technologies and applying my knowledge to build useful applications. I share my projects here to contribute to the community and improve my skills.</h3>
+<h3 align="center">I'm a Computer Engineer passionate about software development. I enjoy learning new technologies and applying my knowledge to build useful applications. I share my projects here to contribute to the community and improve my skills.</h3>
 
 &nbsp;
 
